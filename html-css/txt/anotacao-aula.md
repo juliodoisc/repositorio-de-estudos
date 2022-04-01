@@ -28,6 +28,19 @@
             Corpo do site
         </body>
 </html>
+------
+
+
+
+### Entendendo o que é semântica
+
+"<section> <header> <article> <aside> <footer> <h1>-<h6>"
+
+------
+
+### Como inserir imagens em seu site
+
+utilizando a tag "<a>" podendo colocar dois atributos "href" que é o link para onde vai direcionar e "target" para indicar se vai abrir na mesma página ou em uma nova aba.
 
 
 
