@@ -28,13 +28,18 @@
             Corpo do site
         </body>
 </html>
-------
+
 
 
 
 ### Entendendo o que é semântica
 
-"<section> <header> <article> <aside> <footer> <h1>-<h6>"
+<section>
+<header>
+<article>
+<aside>
+<footer>
+<h1>-<h6>
 
 ------
 
